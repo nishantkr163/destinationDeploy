@@ -1,180 +1,169 @@
 {
- "destination" : [
+  "destination": [
     {
-    "id" : 1,
-    "location" : "Kerala",
-    "tagline" : "God's Own Country",
-    "image" : "https://images.unsplash.com/photo-1506461883276-594a12b11cf3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-    "about" : "Kerala is one of the prettiest states, rightfully dubbed Gods Own Country. Here you will find pristine beaches at Kovalam, Muzhappilangad and Varkala. Besides beaches, the state also has a plethora of historical monuments, enthralling waterfalls and some breathtaking hill stations.",
-    "popularPlaces" : ["Alleppey", "Munnar", "Kumarakom"],
-    "price" : "6009",
-    "person" : 1,
-    "tripPrice" : "6009"
-  },
-  {
-    "id" : 2,
-    "location" : "Rajasthan",
-    "tagline" : "Land of kings",
-    "image" : "https://images.unsplash.com/photo-1631867675167-90a456a90863?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1179&q=80",
-    "about" : "Rajasthan will tell you stories about wars, victories, romances and men of valor. Rajasthan is the land of kings and has a rich history. You can see palaces, archaic monuments and staggering forts. It is also home to the largest Indian desert, Thar Desert, famous for its dunes and desert safaris",
-    "popularPlaces" : ["Jaisalmer", "Jaipur", "Jodhpur"],
-    "price" : "4887",
-    "person" : 1,
-    "tripPrice" : "4887"
-  },
-  {
-    "id" : 3,
-    "location" : "Goa",
-    "tagline" : "The Miami. of India",
-    "image" : "https://static-blog.treebo.com/wp-content/uploads/2018/06/Goa.jpg",
-    "about" : "Goa boasts flawless beaches and mesmerizing sunsets. It is known for its local cuisine, especially seafood. There are a lot of water sports activities held here. Stroll through Goa to marvel at its Portuguese churches and diverse landscapes. It is also one of the smallest states in India and easy to fully explore.",
-    "popularPlaces" : ["Bom Jesus Basilica", "Arambol Beach", "Mapusa Market"],
-    "price" : "6569",
-    "person" : 1,
-    "tripPrice" : "6569"
-  },
-  {
-    "id" : 4,
-    "location" : "Punjab",
-    "tagline" : "The land of the rivers",
-    "image" : "https://images.unsplash.com/photo-1609947017136-9daf32a5eb16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80",
-    "about" : "Punjab is known for its rich and religious history, its cultural diversity and the lip-smacking Punjabi cuisine. It is also home to the iconic Golden Temple that draws devotees from all around the world. Here you will find a blend of local culture and ancient history.",
-    "popularPlaces" : ["Amritsar", "Chandigarh", "Jalandhar"],
-    "price" : "4849",
-    "person" : 1,
-    "tripPrice" : "4849"
-  },
-  {
-    "id" : 5,
-    "location" : "Himachal Pradesh",
-    "tagline" : "Dev Bhoomi",
-    "image" : "https://static-blog.treebo.com/wp-content/uploads/2018/06/Himachal-Pradesh.jpg",
-    "about" : "Himachal Pradesh lies in the foothills of the Himalayan mountain range, and you can see the snow-capped mountains amidst the lush greenery. There are a number of great hill stations to visit. Rock climbing, mountain biking, paragliding, and heli-skiing are some adventure activities conducted in this state.",
-    "popularPlaces" : ["Kulu", "Manali", "Shimla"],
-    "price" : "5864",
-    "person" : 1,
-    "tripPrice" : "5864"
-  },
-  {
-    "id" : 6,
-    "location" : "Uttar Pradesh",
-    "tagline" : "Land of Spirituality",
-    "image" : "https://images.unsplash.com/photo-1571536802807-30451e3955d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1840&q=80",
-    "about" : "Uttar Pradesh is a land of spirituality. One of the wonders of the world, the Taj Mahal, is located here and the holy Ganga river also flows through this state. The state is filled with beautiful architecture, with famous monuments such as the Qutub Minar and Chaukhandi Stupa. Ayodhya and Allahabad are located here.",
-    "popularPlaces" : ["Agra", "Lucknow", "Varanasi"],
-    "price" : "5759",
-    "person" : 1,
-    "tripPrice" : "5759"
-  },
-  {
-    "id" : 7,
-    "location" : "Gujarat",
-    "tagline" : "Jewel of Western India",
-    "image" : "https://static-blog.treebo.com/wp-content/uploads/2018/06/Gujarat.jpg",
-    "about" : "Every year Gujarat sees an inflow of tourists who visit the beaches, temples and archaeological survey sites. Gujarat also is the home to the largest protected area dedicated to Asiatic lions. Gujarat is the fifth-largest Indian state by area. The state is the birthplace of Mahatma Gandhi.",
-    "popularPlaces" : ["Rann of Kutch", "Dwarka", "Laxmi Vilas Palace"],
-    "price" : "3539",
-    "person" : 1,
-    "tripPrice" : "3539"
-  },
-  {
-    "id" : 8,
-    "location" : "Jammu and Kashmir",
-    "tagline" : "A Piece of Heaven on Earth",
-    "image" : "https://static-blog.treebo.com/wp-content/uploads/2018/06/Jammu-and-Kashmir.jpg",
-    "about" : "Jammu and Kashmir is the northernmost state in India, often called a piece of heaven on earth owing to its evergreen valleys, clear blue skies and massive snow-clad mountains. The state is known for its quiet idyllic villages, gushing waterfalls and valleys.",
-    "popularPlaces" : ["Srinagar", "Gulmarg", "Leh & Ladakh"],
-    "price" : "4009",
-    "person" : 1,
-    "tripPrice" : "4009"
-  },
-  {
-    "id" : 9,
-    "location" : "Karnataka",
-    "tagline" : "Land of Temples",
-    "image" : "https://static-blog.treebo.com/wp-content/uploads/2018/06/Karnataka.jpg",
-    "about" : "The state is also called the land of temples because of the multitude of these religious structures here. Right from hill stations to ancient temples, there is something for everyone in Karnataka. It has been ranked as the fifth most visited state by tourists in 2018.",
-    "popularPlaces" : ["Coorg", "Gokarna", "Hampi"],
-    "price" : "3999",
-    "person" : 1,
-    "tripPrice" : "3999"
-  },
-  {
-    "id" : 10,
-    "location" : "West Bengal",
-    "tagline" : "Paschim Banga ",
-    "image" : "https://static-blog.treebo.com/wp-content/uploads/2018/06/w.jpg",
-    "about" : "West Bengal is the home to some grand mansions and British-era Palaces. Kolkata, its capital, is widely regarded as the cultural capital of India. Witness surreal landscapes and go for vibrant art and film festivals. You can also enjoy the theatre and plays.",
-    "popularPlaces" : ["Darjeeling", "Malda", "Kalimpong"],
-    "price" : "2899",
-    "person" : 1,
-    "tripPrice" : "2899"
-  },
-  {
-    "id" : 11,
-    "location" : "Bangalore",
-    "tagline" : "Silicon Valley of India",
-    "image" : "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1227&q=80",
-    "about" : "Bangalore, also known as the “Silicon Valley of India”, is the capital of Karnataka, and established its foundation in 1537. Bangalore is a city with vast diversity and historic significance.  The city is sprawled with gardens, museums, lakes and palaces.",
-    "popularPlaces" : ["Vidhana Soudha", "Cubbon Park", "Nandi Hills"],
-    "price" : "2229",
-    "person" : 1,
-    "tripPrice" : "2229"
-  },
-  {
-    "id" : 12,
-    "location" : "Odisha",
-    "tagline" : "Soul of India",
-    "image" : "https://as2.ftcdn.net/v2/jpg/01/96/60/47/1000_F_196604732_fBfPgktzejASKOdvV8vn1BWJBHIrnnyI.jpg",
-    "about" : "Odisha, previously known as Orissa or the ancient land of Kalinga, is called the Soul of India. Officially specified as a separate state on April 1st 1936, it came to be recognized as a place of great cultural and historical significance over the years. ",
-    "popularPlaces" : ["Konark", "Chilika Lake", "Deer Park"],
-    "price" : "3989",
-    "person" : 1,
-    "tripPrice" : "3989"
-  },
-  {
-    "id" : 13,
-    "location" : "Bihar",
-    "tagline" : "The Land of Monasteries",
-    "image" : "https://as2.ftcdn.net/v2/jpg/01/05/09/43/1000_F_105094341_VmR4OKwP9w8zsncQgycIUcqGbKUK0j3M.jpg",
-    "about" : "Bihar is one of the country's fastest-growing states in the country. This economic revival is the direct result of the improved governance which focused on investment in infrastructure and education. Bihar has become a prospective opportunity for investment interest to global business and economic leaders. ",
-    "popularPlaces" : ["Mahabodhi Temple", "Harimandir Ji Patna Sahib", "Vishwa Shanti Stupa"],
-    "price" : "2599",
-    "person" : 1,
-    "tripPrice" : "2599"
-  },
-  {
-    "id" : 14,
-    "location" : "Uttarakhand",
-    "tagline" : "Devbhoomi",
-    "image" : "https://as2.ftcdn.net/v2/jpg/01/05/09/33/1000_F_105093380_lVwOZte5Ha2A6T6NkC4Y07GVENZPGMtr.jpg",
-    "about" : "A land of myths and mountains, Devbhoomi Uttarakhand, is one of the most beautiful states of India. Snow-capped Himalayan peaks, serpentine rivers, revered temples, quaint villages, vibrant culture, and World Heritage Sites, Uttarakhand's sheer natural beauty and diversity beckon travelers from across the world.",
-    "popularPlaces" : ["Rishikesh", "Nainital", "Mussoorie"],
-    "price" : "3539",
-    "person" : 1,
-    "tripPrice" : "3539"
-  },
-  {
-    "id" : 15,
-    "location" : "Dharamshala",
-    "tagline" : "Mysore State",
-    "image" : "https://as2.ftcdn.net/v2/jpg/02/64/16/61/1000_F_264166188_hOlIbQgt0XP1OSt5WjMYKsAT4fTPzkLW.jpg",
-    "about" : "Located on the edge of the mighty Himalayas in the Kangra Valley, Dharamshala is a serene city enveloped by deodar, cedar forests and the magnificent Dhauladhar ranges. It was once a holy abode to the 14th Dalai Lama - Tenzin Gyatso who lived as a refugee in Dharamshala in India.",
-    "popularPlaces" : ["Kareri Dal Lake", "Kangra Fort", "Gyuto Monastery"],
-    "price" : "4847",
-    "person" : 1,
-    "tripPrice" : "4847"
-  },
-  {
-    "id" : 16,
-    "location" : "Telengana",
-    "tagline" : "Trilinga Desam and Trilinga Pradesh",
-    "image" : "https://www.holidify.com/images/bgImages/TELANGANA.jpg",
-    "about" : "Home to three ancient Shiva temples, Telangana defines the word Trilinga Desa, with the presence of Draksharaman, Srisailam, and Kaleshwaram holy places. Though Telangana is the newest state of India, yet its breath-taking ancient architecture seems alluring to every traveller.",
-    "popularPlaces" : ["Medak Fort", "Wargal Saraswathi Temple", " Singur Dam"],
-    "price" : "2999",
-    "person" : 1,
-    "tripPrice" : "2999"
-  }
-]
+      "id": 1,
+      "location": "Himachal Pradesh",
+      "tagline": "Dev Bhoomi",
+      "image": "https://images.pexels.com/photos/7846476/pexels-photo-7846476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "about": "Himachal Pradesh lies in the foothills of the Himalayan mountain range, and you can see the snow-capped mountains amidst the lush greenery. There are a number of great hill stations to visit. Rock climbing, mountain biking, paragliding, and heli-skiing are some adventure activities conducted in this state.",
+      "popularPlaces": ["Kulu", "Manali", "Shimla"],
+      "price": "5864",
+      "person": 1,
+      "tripPrice": "5864"
+    },
+    {
+      "id": 2,
+      "location": "Rajasthan",
+      "tagline": "Land of kings",
+      "image": "https://images.unsplash.com/photo-1631867675167-90a456a90863?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1179&q=80",
+      "about": "Rajasthan will tell you stories about wars, victories, romances and men of valor. Rajasthan is the land of kings and has a rich history. You can see palaces, archaic monuments and staggering forts. It is also home to the largest Indian desert, Thar Desert, famous for its dunes and desert safaris",
+      "popularPlaces": ["Jaisalmer", "Jaipur", "Jodhpur"],
+      "price": "4887",
+      "person": 1,
+      "tripPrice": "4887"
+    },
+    {
+      "id": 3,
+
+      "location": "Kerala",
+      "tagline": "God's Own Country",
+      "image": "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80",
+      "about": "Kerala is one of the prettiest states, rightfully dubbed Gods Own Country. Here you will find pristine beaches at Kovalam, Muzhappilangad and Varkala. Besides beaches, the state also has a plethora of historical monuments, enthralling waterfalls and some breathtaking hill stations.",
+      "popularPlaces": ["Alleppey", "Munnar", "Kumarakom"],
+      "price": "6009",
+      "person": 1,
+      "tripPrice": "6009"
+    },
+    {
+      "id": 4,
+      "location": "Bangalore",
+      "tagline": "Silicon Valley of India",
+      "image": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1227&q=80",
+      "about": "Bangalore, also known as the “Silicon Valley of India”, is the capital of Karnataka, and established its foundation in 1537. Bangalore is a city with vast diversity and historic significance.  The city is sprawled with gardens, museums, lakes and palaces.",
+      "popularPlaces": ["Cubbon Park", "Nandi Hills"],
+      "price": "2229",
+      "person": 1,
+      "tripPrice": "2229"
+    },
+    {
+      "id": 5,
+      "location": "West Bengal",
+      "tagline": "Paschim Banga ",
+      "image": "https://images.unsplash.com/photo-1589041127168-9b1915731dc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "about": "West Bengal is the home to some grand mansions and British-era Palaces. Kolkata, its capital, is widely regarded as the cultural capital of India. Witness surreal landscapes and go for vibrant art and film festivals. You can also enjoy the theatre and plays.",
+      "popularPlaces": ["Darjeeling", "Malda", "Kalimpong"],
+      "price": "2899",
+      "person": 1,
+      "tripPrice": "2899"
+    },
+    {
+      "id": 6,
+      "location": "Jammu and Kashmir",
+      "tagline": "A Piece of Heaven on Earth",
+      "image": "https://static-blog.treebo.com/wp-content/uploads/2018/06/Jammu-and-Kashmir.jpg",
+      "about": "Jammu and Kashmir is the northernmost state in India, often called a piece of heaven on earth owing to its evergreen valleys, clear blue skies and massive snow-clad mountains. The state is known for its quiet idyllic villages, gushing waterfalls and valleys.",
+      "popularPlaces": ["Srinagar", "Leh", "Ladakh"],
+      "price": "4009",
+      "person": 1,
+      "tripPrice": "4009"
+    },
+    {
+      "id": 7,
+      "location": "Goa",
+      "tagline": "The Miami. of India",
+      "image": "https://images.unsplash.com/photo-1625505826533-5c80aca7d157?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
+      "about": "Goa boasts flawless beaches and mesmerizing sunsets. It is known for its local cuisine, especially seafood. There are a lot of water sports activities held here. Stroll through Goa to marvel at its Portuguese churches and diverse landscapes. It is also one of the smallest states in India and easy to fully explore.",
+      "popularPlaces": ["Jesus Basilica", "Mapusa Market"],
+      "price": "6569",
+      "person": 1,
+      "tripPrice": "6569"
+    },
+    {
+      "id": 8,
+      "location": "Uttarakhand",
+      "tagline": "Devbhoomi",
+      "image": "https://as2.ftcdn.net/v2/jpg/01/05/09/33/1000_F_105093380_lVwOZte5Ha2A6T6NkC4Y07GVENZPGMtr.jpg",
+      "about": "A land of myths and mountains, Devbhoomi Uttarakhand, is one of the most beautiful states of India. Snow-capped Himalayan peaks, serpentine rivers, revered temples, quaint villages, vibrant culture, and World Heritage Sites, Uttarakhand's sheer natural beauty and diversity beckon travelers from across the world.",
+      "popularPlaces": ["Rishikesh", "Nainital", "Mussoorie"],
+      "price": "3539",
+      "person": 1,
+      "tripPrice": "3539"
+    },
+    {
+      "location": "Bihar",
+      "tagline": "The Land of Monasteries",
+      "image": "https://media.istockphoto.com/id/1203495977/photo/ancient-buddha-temple.webp?b=1&s=170667a&w=0&k=20&c=2XO9OYHuhVLpS2g1OJ_MWNnpKX1M6Jfh90_ZXn2L-0c=",
+      "about": "Bihar is one of the country's fastest-growing states in the country. This economic revival is the direct result of the improved governance which focused on investment in infrastructure and education. Bihar has become a prospective opportunity for investment interest to global business and economic leaders. ",
+      "popularPlaces": ["Mahabodhi Temple", "Shanti Stupa"],
+      "price": "2599",
+      "person": 1,
+      "tripPrice": "2599"
+    },
+    {
+      "id": 10,
+      "location": "Punjab",
+      "tagline": "The land of the rivers",
+      "image": "https://images.pexels.com/photos/815880/pexels-photo-815880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "about": "Punjab is known for its rich and religious history, its cultural diversity and the lip-smacking Punjabi cuisine. It is also home to the iconic Golden Temple that draws devotees from all around the world. Here you will find a blend of local culture and ancient history.",
+      "popularPlaces": ["Amritsar", "Chandigarh", "Jalandhar"],
+      "price": "4849",
+      "person": 1,
+      "tripPrice": "4849"
+    },
+    {
+      "id": 11,
+      "location": "Gujarat",
+      "tagline": "Jewel of Western India",
+      "image": "https://images.pexels.com/photos/16097642/pexels-photo-16097642/free-photo-of-lakota-lake-day-time-photo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "about": "Every year Gujarat sees an inflow of tourists who visit the beaches, temples and archaeological survey sites. Gujarat also is the home to the largest protected area dedicated to Asiatic lions. Gujarat is the fifth-largest Indian state by area. The state is the birthplace of Mahatma Gandhi.",
+      "popularPlaces": ["Rann of Kutch", "Dwarka"],
+      "price": "3539",
+      "person": 1,
+      "tripPrice": "3539"
+    },
+    {
+      "id": 12,
+      "location": "Karnataka",
+      "tagline": "Land of Temples",
+      "image": "https://images.pexels.com/photos/17666276/pexels-photo-17666276/free-photo-of-palace.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "about": "The state is also called the land of temples because of the multitude of these religious structures here. Right from hill stations to ancient temples, there is something for everyone in Karnataka. It has been ranked as the fifth most visited state by tourists in 2018.",
+      "popularPlaces": ["Coorg", "Gokarna", "Hampi"],
+      "price": "3999",
+      "person": 1,
+      "tripPrice": "3999"
+    },
+    {
+      "id": 13,
+      "location": "Uttar Pradesh",
+      "tagline": "Land of Spirituality",
+      "image": "https://images.unsplash.com/photo-1571536802807-30451e3955d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1840&q=80",
+      "about": "Uttar Pradesh is a land of spirituality. One of the wonders of the world, the Taj Mahal, is located here and the holy Ganga river also flows through this state. The state is filled with beautiful architecture, with famous monuments such as the Qutub Minar and Chaukhandi Stupa. Ayodhya and Allahabad are located here.",
+      "popularPlaces": ["Agra", "Lucknow", "Varanasi"],
+      "price": "5759",
+      "person": 1,
+      "tripPrice": "5759"
+    },
+    {
+      "id": 14,
+      "location": "Odisha",
+      "tagline": "Soul of India",
+      "image": "https://images.pexels.com/photos/14862819/pexels-photo-14862819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "about": "Odisha, previously known as Orissa or the ancient land of Kalinga, is called the Soul of India. Officially specified as a separate state on April 1st 1936, it came to be recognized as a place of great cultural and historical significance over the years. ",
+      "popularPlaces": ["Chilika Lake", "Deer Park"],
+      "price": "3989",
+      "person": 1,
+      "tripPrice": "3989"
+    },
+    {
+      "id": 15,
+      "location": "Dharamshala",
+      "tagline": "Mysore State",
+      "image": "https://media.istockphoto.com/id/1139879677/photo/key-monastery.webp?b=1&s=170667a&w=0&k=20&c=x2PqC4lbTq562Yh9yOd8gGfV6J2cc-_0YSuu37OMwD8=",
+      "about": "Located on the edge of the mighty Himalayas in the Kangra Valley, Dharamshala is a serene city enveloped by deodar, cedar forests and the magnificent Dhauladhar ranges. It was once a holy abode to the 14th Dalai Lama - Tenzin Gyatso who lived as a refugee in Dharamshala in India.",
+      "popularPlaces": ["Dal Lake", "Gyuto Monastery"],
+      "price": "4847",
+      "person": 1,
+      "tripPrice": "4847"
+    }
+  ]
 }
